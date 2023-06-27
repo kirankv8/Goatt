@@ -25,7 +25,7 @@ package-lock.json
 builders/
 config/
 external-chaincode/
-install-fabric.sh
+# install-fabric.sh
 # ss
 # override the ignore of all config/ folders
 !full-stack-asset-transfer-guide/infrastructure/sample-network/config
